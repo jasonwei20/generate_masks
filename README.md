@@ -10,4 +10,4 @@ Follow directions from [Mask-RCNN](https://github.com/matterport/Mask_RCNN) to d
 
 ## Test
 lol I used two style transfers and combined their masks
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/jasonwei20/generate_masks/blob/master/mask_background_5_tl2.jpg)
