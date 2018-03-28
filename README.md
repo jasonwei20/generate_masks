@@ -7,3 +7,7 @@ Follow directions from [Mask-RCNN](https://github.com/matterport/Mask_RCNN) to d
 1. Place wanted images in `/images/`
 2. Run `python generate_masks.py` to create the masks.
 3. To retrieve the masks from `/output_masks/`, use something like `mask = np.load('output_masks/mask_262985539_1709e54576_z.npy')`. 
+
+## Test
+lol I used two style transfers and combined their masks
+![alt text](http://url/to/img.png)
